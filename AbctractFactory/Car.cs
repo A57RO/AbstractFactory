@@ -1,6 +1,6 @@
 namespace AbctractFactory
 {
-    public class Audi
+    public class Car
     {
         
     }
